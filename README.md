@@ -1,3 +1,4 @@
-# Project-workshop
-Các project trải qua hơn trăm workshop về AI, Machine learning tích lũy được.
-Điều đó chứng tỏ Sơn luôn không ngừng học tập và nghiên cứu, đặc biệt về Machine learning và Data Science
+# Tensorflow-workshop
+2 project của TensorFlow World Hanoi Extended workshop về nhận diện ảnh bằng mạng CNN
+project giới thiệu sơ lược về mô hình Deep learning,CNN,...
+
